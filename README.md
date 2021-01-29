@@ -1,0 +1,1 @@
+Simple database project with object oriented programmation and mvl. I used it as a gossip registery, but feel free to change it to do what you want.
